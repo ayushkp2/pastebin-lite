@@ -1,5 +1,7 @@
 # Pastebin Lite
 
+  **Live Demo:**  https://pastebin-lite-two-livid.vercel.app/
+
 A lightweight pastebin application that allows users to create and share text snippets with optional expiry times and view limits.
 
 ## Features
